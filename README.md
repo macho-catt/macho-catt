@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check out my [website](https://github.com/macho-catt)!
+Check out my [website](https://www.mattcacho.com)!
 
 **Currently work in progress**
