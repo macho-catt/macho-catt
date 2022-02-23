@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 -->
 
 Check out my [website](https://www.mattcacho.com)!
-
-**Currently work in progress**
