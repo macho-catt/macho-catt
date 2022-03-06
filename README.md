@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+As a software developer, previous competitive amateur MOBA captain (Dota 2), and 10-mile+ weekend hiker, the most important skills in my toolkit are empathy, patience, and planning. Whether it’s customers or teammates, I aim to understand their perspectives, motivations, and goals to foster a space of camaraderie and growth, as well as guide the team towards achieving objectives.
+
+##
+
+Check out my [website](https://www.mattcacho.com)!
+
+##
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macho-catt&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -16,5 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Check out my [website](https://www.mattcacho.com)!
