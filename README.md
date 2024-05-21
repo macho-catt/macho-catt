@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-When not indoors and writing lines of code, I like touch grass by bouldering, running, hiking, camping, or backpacking. I also enjoy playing Dota and questioning why I play that game.
+When not indoors and writing lines of code, I like to touch grass by bouldering, running, hiking, camping, or backpacking. I also enjoy playing Dota and questioning why I play that game.
 
 ##
 
