@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As a software developer, previous competitive amateur MOBA captain (Dota 2), and 10-mile+ weekend hiker, the most important skills in my toolkit are empathy, patience, and planning. Whether it’s customers or teammates, I aim to understand their perspectives, motivations, and goals to foster a space of camaraderie and growth, as well as guide the team towards achieving objectives.
+When not indoors and writing lines of code, I like touch grass by bouldering, running, hiking, camping, or backpacking. I also enjoy playing Dota and questioning why I play that game.
 
 ##
 
